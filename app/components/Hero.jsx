@@ -14,7 +14,7 @@ const Hero = () => {
       <div className="relative">
         <div className="text-8xl font-bold text-center">
           <h1 className="text-[#98B4CE]">Hi, I am</h1>
-          <h1 className="text-[#E48A57]">Jon Doe</h1>
+          <h1 className="text-[#E48A57]">Pranav Zinjad</h1>
         </div>
 
         <motion.div
