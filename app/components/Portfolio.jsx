@@ -2,52 +2,37 @@
 import React from 'react';
 import Image from 'next/image';
 import { motion } from 'framer-motion';
-import project1 from '../assets/proj1.jpg';
-import project2 from '../assets/proj2.jpg';
+import project1 from '../assets/proj1.png';
+import project2 from '../assets/proj2.png';
 import project3 from '../assets/proj3.png';
-import project4 from '../assets/proj4.jpg';
+
 
 const projects = [
     {
-        title: "Project 1 Title",
-        desc: "This is a description of Project 1. It showcases various features and functionalities.",
-        devstack: "React, Tailwind CSS, Node.js",
-        link: "https://project1-demo.com",
-        git: "https://github.com/username/project1",
+        title: "Music WebApp Simple FrontEnd Project",
+        desc: "A Spotify Like Music app for personal use",
+        devstack: "HTML , CSS JavaScript",
+        link: "https://panu.freewebhostmost.com",
+        git: "https://github.com/panu-27/Music-App---Using-Simple-Javascript-HTML-CSS",
         src: project1
     },
     {
         title: "Project 2 Title",
         desc: "Project 2 is focused on enhancing user experience with intuitive design.",
-        devstack: "Vue.js, Vuetify, Express",
-        link: "https://project2-demo.com",
-        git: "https://github.com/username/project2",
+        devstack: "Next.js React.js Frame Motion",
+        link: "https://portfolio-website-delta-gilt.vercel.app/",
+        git: "https://github.com/panu-27/Portfolio-Website-",
         src: project2
     },
     {
-        title: "Project 3 Title",
-        desc: "This project aims to optimize performance for large datasets.",
-        devstack: "Angular, Bootstrap, MongoDB",
-        link: "https://project3-demo.com",
-        git: "https://github.com/username/project3",
-        src: project3
-    },
-    {
-        title: "Project 4 Title",
-        desc: "A collaborative platform for team management and communication.",
-        devstack: "Next.js, Tailwind CSS, Firebase",
-        link: "https://project4-demo.com",
-        git: "https://github.com/username/project4",
-        src: project4
-    },
-    {
-        title: "Project 5 Title",
-        desc: "An e-commerce application with features for a seamless shopping experience.",
-        devstack: "React, Redux, GraphQL",
-        link: "https://project5-demo.com",
-        git: "https://github.com/username/project5",
-        src: project4
-    }
+      title: "iTask todo list app",
+      desc: "todo app ",
+      devstack: "Vite React.js",
+      link: "https://portfolio-website-delta-gilt.vercel.app/",
+      git: "https://github.com/panu-27/Portfolio-Website-",
+      src: project3
+  },
+  
 ];
 
 const Portfolio = () => {
