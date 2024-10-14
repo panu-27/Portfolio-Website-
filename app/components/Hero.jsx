@@ -8,7 +8,7 @@ import profilepic from '../assets/profilepic.png';
 const Hero = () => {
   return (
     <div className="py-24 relative overflow-clip bg-[linear-gradient(to_bottom,#000,#2B1942_35%,#8F5C55_60%,#DBAF6E_80%)]">
-        <div className="absolute rounded-[50%] w-[3000px] h-[1300px] bg-[radial-gradient(closest-side,#000_80%,#2B1942)] top-[550px] left-[50%] -translate-x-1/2"></div>
+      <div className="absolute rounded-[50%] w-[3000px] h-[1300px] bg-[radial-gradient(closest-side,#000_80%,#2B1942)] top-[550px] left-[50%] -translate-x-1/2"></div>
 
 
       <div className="relative">
@@ -44,8 +44,10 @@ const Hero = () => {
         </motion.div>
 
         <p className="text-center text-xl max-w-[500px] mx-auto mt-8 text-white/70">
-        "Hi, I'm Pranav, a Computer Science student at NBNSTIC, affiliated with SPPU. I specialize in MERN stack development, crafting dynamic web applications that enhance user experince"
+          "Hi, I’m Pranav, a Computer Science student at NBNSTIC, affiliated with SPPU.
+          I specialize in MERN stack development, creating dynamic web applications that enhance user experience."
         </p>
+
 
         <Image
           src={profilepic}
