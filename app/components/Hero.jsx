@@ -44,7 +44,7 @@ const Hero = () => {
         </motion.div>
 
         <p className="text-center text-xl max-w-[500px] mx-auto mt-8 text-white/70">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius at exercitationem, iusto aut accusamus quisquam rerum illum voluptates mollitia voluptate. Doloribus recusandae ipsam officiis sequi fugiat! Officia ipsam dolorum exercitationem!
+        "Hi, I’m Pranav, a Computer Science student at NBNSTIC, affiliated with SPPU. I specialize in MERN stack development, crafting dynamic web applications that enhance user e
         </p>
 
         <Image
