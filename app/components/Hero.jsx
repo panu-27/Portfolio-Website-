@@ -44,7 +44,7 @@ const Hero = () => {
         </motion.div>
 
         <p className="text-center text-xl max-w-[500px] mx-auto mt-8 text-white/70">
-        "Hi, I’m Pranav, a Computer Science student at NBNSTIC, affiliated with SPPU. I specialize in MERN stack development, crafting dynamic web applications that enhance user e
+        "Hi, I'm Pranav, a Computer Science student at NBNSTIC, affiliated with SPPU. I specialize in MERN stack development, crafting dynamic web applications that enhance user experince"
         </p>
 
         <Image
