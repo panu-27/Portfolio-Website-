@@ -21,8 +21,8 @@ const About = () => {
           <div className='flex flex-row p-6'>
             <Image src={book} alt='book' className='w-auto h-[100px] md:h-[130px]' />
             <div className='flex flex-col mt-4'>
-              <h2 className='text-xl md:text-2xl font-bold text-white/80'>Title 1</h2>
-              <p className='text-sm md:text-lg text-white/70 mt-2'>Description for the first item.</p>
+              <h2 className='text-xl md:text-2xl font-bold text-white/80'>Education</h2>
+              <p className='text-sm md:text-lg text-white/70 mt-2'>Doing Computer Engineering From NBN Sinhgad Teechnical Institute Of Technology Pune , 2027 Passing Out</p>
             </div>
           </div>
         </div>
@@ -32,8 +32,8 @@ const About = () => {
           <div className='flex flex-row p-6'>
             <Image src={pc} alt='computer' className='w-auto h-[100px] md:h-[130px]' />
             <div className='flex flex-col mt-4'>
-              <h2 className='text-xl md:text-2xl font-bold text-white/80'>Title 2</h2>
-              <p className='text-sm md:text-lg text-white/70 mt-2'>Description for the second item.</p>
+              <h2 className='text-xl md:text-2xl font-bold text-white/80'>Problem-Solving</h2>
+              <p className='text-sm md:text-lg text-white/70 mt-2'>I Approach Problem with Logical MindSet , Have a Good Command in DSA</p>
             </div>
           </div>
         </div>
@@ -43,8 +43,8 @@ const About = () => {
           <div className='flex flex-row p-6'>
             <Image src={card} alt='card' className='w-auto h-[100px] md:h-[130px]' />
             <div className='flex flex-col mt-4'>
-              <h2 className='text-xl md:text-2xl font-bold text-white/80'>Title 3</h2>
-              <p className='text-sm md:text-lg text-white/70 mt-2'>Description for the third item.</p>
+              <h2 className='text-xl md:text-2xl font-bold text-white/80'>Experience</h2>
+              <p className='text-sm md:text-lg text-white/70 mt-2'>Currently Not have any experience , Building My skills </p>
             </div>
           </div>
         </div>
@@ -54,8 +54,8 @@ const About = () => {
           <div className='flex flex-row p-6'>
             <Image src={finance} alt='finance' className='w-auto h-[100px] md:h-[130px]' />
             <div className='flex flex-col mt-4'>
-              <h2 className='text-xl md:text-2xl font-bold text-white/80'>Title 4</h2>
-              <p className='text-sm md:text-lg text-white/70 mt-2'>Description for the fourth item.</p>
+              <h2 className='text-xl md:text-2xl font-bold text-white/80'>Technical Domains</h2>
+              <p className='text-sm md:text-lg text-white/70 mt-2'>Full Stack Web Development MERN Stack </p>
             </div>
           </div>
         </div>
